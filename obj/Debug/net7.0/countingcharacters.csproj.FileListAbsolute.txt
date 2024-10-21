@@ -1,0 +1,14 @@
+C:\countingcharacters\obj\Debug\net7.0\countingcharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\countingcharacters\obj\Debug\net7.0\countingcharacters.AssemblyInfoInputs.cache
+C:\countingcharacters\obj\Debug\net7.0\countingcharacters.AssemblyInfo.cs
+C:\countingcharacters\obj\Debug\net7.0\countingcharacters.csproj.CoreCompileInputs.cache
+C:\countingcharacters\bin\Debug\net7.0\countingcharacters.exe
+C:\countingcharacters\bin\Debug\net7.0\countingcharacters.deps.json
+C:\countingcharacters\bin\Debug\net7.0\countingcharacters.runtimeconfig.json
+C:\countingcharacters\bin\Debug\net7.0\countingcharacters.dll
+C:\countingcharacters\bin\Debug\net7.0\countingcharacters.pdb
+C:\countingcharacters\obj\Debug\net7.0\countingcharacters.dll
+C:\countingcharacters\obj\Debug\net7.0\refint\countingcharacters.dll
+C:\countingcharacters\obj\Debug\net7.0\countingcharacters.pdb
+C:\countingcharacters\obj\Debug\net7.0\countingcharacters.genruntimeconfig.cache
+C:\countingcharacters\obj\Debug\net7.0\ref\countingcharacters.dll
